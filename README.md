@@ -39,7 +39,7 @@ The dashboard provides a high-level business view with key performance indicator
 ## 📂 Files in this Repository
 - `Sales Dashboard.pbix` → Power BI working file  
 - `Sales Dashboard-1.pdf` → Exported dashboard  
-- `dashboard_overview.png` → Dashboard screenshot  
+- `Dashboard_Overview.png` → Dashboard screenshot  
 
 ---
 
