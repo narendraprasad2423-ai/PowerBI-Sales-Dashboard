@@ -24,7 +24,7 @@ The dashboard provides a high-level business view with key performance indicator
 ---
 
 ## 🖼️ Dashboard Preview
-![Sales Dashboard](dashboard_overview.png)
+![Sales Dashboard](Dashboard_Overview.png)
 
 ---
 
